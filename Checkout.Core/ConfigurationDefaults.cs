@@ -16,5 +16,7 @@ namespace Checkout.Core
         public const string COUCHBASE_PASSWORD = "123456";
         public const string COUCHBASE_COLLECTIONNAME = "navigation";
 
+        public const string NAVIGATIONAPI_HOST = "http://localhost:50225/";
+
     }
 }
